@@ -24,5 +24,3 @@ Step 3 – Calculate the predicted price for diamond: For each diamond, plug in 
 
 Step 4 – Make a recommendation: Now that you have the predicted price for each diamond, it’s time to calculate the bid price for the whole set. Note: The diamond price that the model predicts represents the final retail price the consumer will pay. The company generally purchases diamonds from distributors at 70% of the that price, so your recommended bid price should represent that.
 
-Self-Assessment
-Do your best to complete the practice project on your own. Once you are done, or get stuck, take a look at the solution. We’ve provided the solution dataset, Alteryx workflow, as well as a walk through of how to complete the project. There's not necessarily one perfectly right answer.
